@@ -26,8 +26,8 @@ Runique is a multi-module running tracker apps that monitors health and running 
 ## How do you run the project?
 
 In order to run the project on your phone, you'll need to first clone it and then add two API keys for:
-1. ... the Runique API (access granted after course purchase)
-2. ... Google Maps (needs to be got from Google Cloud Console - instructions in the course)
+1. ... the Runique API
+2. ... Google Maps (needs to be got from Google Cloud Console)
 
 Then simply include them in `local.properties`:
 ```
