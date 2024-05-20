@@ -1,6 +1,6 @@
 # Runique
 
-Runique is a multi-module running tracker app for phones and Wear OS devices you can learn to build in the Android Essentials course bundle ([Get it here](https://pl-coding.com/android-essentials-bundle?utm_source=github&utm_medium=readme&utm_campaign=readme_link&utm_id=essentials)).
+Runique is a multi-module running tracker apps that monitors health and running data tracks with current location and is available on both mobile devices and Wear OS platforms.
 
 ![Run Feature](https://pl-coding.com/wp-content/uploads/2024/04/run-feature.png)
 <table>
@@ -14,13 +14,7 @@ Runique is a multi-module running tracker app for phones and Wear OS devices you
   </tr>
 </table>
 
-## What's covered?
-
-In this course bundle, you will learn these concepts/technologies:
-- Project planning
-- Software architecture theory
 - Multi-module architecture
-- Gradle for large-scale projects (version catalogs & convention plugins)
 - Authentication systems (OAuth / token refresh)
 - Offline-first development
 - Dynamic feature modules
