@@ -13,6 +13,7 @@ Runique is a multi-module running tracker apps that monitors health and running 
     </td>
   </tr>
 </table>
+## Technology Used
 
 - Multi-module architecture
 - Authentication systems (OAuth / token refresh)
