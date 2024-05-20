@@ -13,11 +13,11 @@ Runique is a multi-module running tracker apps that monitors health and running 
     </td>
   </tr>
 </table>
-## Technology Used
 
-- Multi-module architecture
+## Technology Used in This Project?
+- Offline-first development App
+- Multi-module MVVM architecture
 - Authentication systems (OAuth / token refresh)
-- Offline-first development
 - Dynamic feature modules
 - Google Maps SDK
 - Jetpack Compose in multi-module projects
