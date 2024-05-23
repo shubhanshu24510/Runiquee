@@ -13,13 +13,9 @@ Runique is a multi-module running tracker apps that monitors health and running 
     </td>
   </tr>
 </table>
-## Runique App Demo 
+## Runique App Demo
 
-https://github.com/shubhanshu24510/Runiquee/assets/100926922/f169612b-485b-41e2-941f-e22d29457d2d
-
-
-
-
+https://github.com/shubhanshu24510/Runiquee/assets/100926922/b0268e64-c22d-4db4-ae6c-1cfc077e7798
  
 ## Technology Used in This Project?
 - Offline-first development App
